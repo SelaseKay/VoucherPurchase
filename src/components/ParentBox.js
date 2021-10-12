@@ -7,17 +7,9 @@ export function ParentBox(props) {
         576,
     ]
 
-    // const br = useBreakpointValue({
-    //     xs: '480px',
-    //     sm: '576px',
-    //     md: '768px',
-    //     lg: '992px',
-    //     xl: '1200px',
-    // })
     return (
         <Container
             w={breakpoint}
-            h={500}
             alignSelf='center'
             borderWidth={2}
             borderColor='#D3D3D3'
@@ -27,8 +19,8 @@ export function ParentBox(props) {
         >
             <VStack
                 w="100%"
-                pr={32}
-                pl={4}>
+                pr={8}
+                pl={8}>
                 {props.children}
             </VStack>
         </Container>

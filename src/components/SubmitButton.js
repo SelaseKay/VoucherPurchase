@@ -6,6 +6,7 @@ export function SubmitButton(){
             onPress = {() => console.log("hello world")}
             color = '#2178E4'
             mt = {8}
+            mb = {8}
             >
                 Submit
             </Button>
