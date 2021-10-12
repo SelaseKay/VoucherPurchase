@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/VoucherPurchase/static/js/main.c68db974.chunk.js",
+    "main.js.map": "/VoucherPurchase/static/js/main.c68db974.chunk.js.map",
+    "runtime-main.js": "/VoucherPurchase/static/js/runtime-main.f086c6e1.js",
+    "runtime-main.js.map": "/VoucherPurchase/static/js/runtime-main.f086c6e1.js.map",
+    "static/js/2.eaaf9d3e.chunk.js": "/VoucherPurchase/static/js/2.eaaf9d3e.chunk.js",
+    "static/js/2.eaaf9d3e.chunk.js.map": "/VoucherPurchase/static/js/2.eaaf9d3e.chunk.js.map",
+    "static/js/3.25fd5481.chunk.js": "/VoucherPurchase/static/js/3.25fd5481.chunk.js",
+    "static/js/3.25fd5481.chunk.js.map": "/VoucherPurchase/static/js/3.25fd5481.chunk.js.map",
+    "index.html": "/VoucherPurchase/index.html",
+    "static/js/2.eaaf9d3e.chunk.js.LICENSE.txt": "/VoucherPurchase/static/js/2.eaaf9d3e.chunk.js.LICENSE.txt",
+    "static/media/logo.ac84d59b.svg": "/VoucherPurchase/static/media/logo.ac84d59b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f086c6e1.js",
+    "static/js/2.eaaf9d3e.chunk.js",
+    "static/js/main.c68db974.chunk.js"
+  ]
+}
